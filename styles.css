@@ -1,0 +1,24 @@
+.primero{
+  background: orange;
+  height:auto;
+  width: auto;
+  display:inline-block;
+  margin-right: 20px;
+  padding: 10px 20px;
+}
+.segundo{
+  background: black;
+  height:auto;
+  width: auto;
+  display:inline-block;
+  margin-right: 20px;
+  padding: 10px 20px;
+}
+.tercero{
+  background: orange;
+  height:auto;
+  width: auto;
+  display:inline-block;
+  margin-right: 20px;
+  padding: 10px 20px;
+}
